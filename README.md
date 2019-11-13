@@ -40,7 +40,7 @@ Ensure the shares were issued properly to Vendors, Vendors truly owns the shares
 #### What name(s) do you search?
 “Target Beauty Supplies Inc.”
 #### How/where do you do these required public search(es)?
-In person at Service Ontario, or by mail/fax to Central Production and Verification Services Branch of Ministry of Government and Consumer Services, or through primary services providers (PSPs), or through search houses and corporations that offer such services
+In person at Service Ontario, or by mail/fax to Central Production and Verification Services Branch of Ministry of Government and Consumer Services, or through primary services providers (PSPs), or through search houses and companies that offer such services
 #### What are you looking for?
 Confirm Corporation currently exists. Also find all other names the corporation may have used in the past five years.*
 #### Why is this important to your client?
@@ -99,9 +99,9 @@ Contact the Office of the Superintendent of Bankruptcy to request an “insolven
 Also request a search of court files in the jurisdiction for arrangement under _Companies’ Creditors Arrangement Act_
 
 #### What are you looking for?
-...
+Record of insolvency or creditors arrangement.
 #### Why is this important to your client?
-...
+If Vendors are bankrupt and undischarged, they can't sell the shares. In case Corporation is bankrupt, the client wouldn't want to proceed with the purchase.
 
 # (8)  The Corporation is not in default of any agreement or contract to which the Corporation is a party and that all such agreements and contracts are in good standing and the Corporation is entitled to all stated benefits in such agreements.
 ## What internal  reviews are required?
