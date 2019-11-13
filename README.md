@@ -46,7 +46,7 @@ By-laws
 
 #  (5) There are no existing or threatened legal actions or claims against the Corporation.
 ## What public search(es) are required?
-### 🔎 Litigation
+### 🔎 Ongoing or Threatened Litigation
 #### What name(s) do you search?
 “Target Beauty Supplies Inc.” and any other names discovered in Question 3.*
 #### How/where do you do these required public search(es)?
