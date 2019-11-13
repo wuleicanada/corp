@@ -47,12 +47,21 @@ Confirm Corporation currently exists. Also find all other names the corporation 
 The client wouldn't want to buy a company that never or no longer exists. The other names found will be used for public searches. 
 
 # (4) The entering into of this agreement and the transactions contemplated hereby will not result in the violation of any of the terms and provisions of the constating documents or by-laws of the Vendor or of any indenture or other agreement, written or oral, to which the Vendor may be a party.
+## What public search(es) are required?
+### 🔎 Contracts
+#### What name(s) do you search?
+“Target Beauty Supplies Inc.”
+#### What are you looking for?
+Look in the contracts for terms that would be violated by the purchase.
+#### Why is this important to your client?
+Violating contracts would have bad consequences.
 ## What internal  reviews are required?
 ### 🔎 Minute book review
 #### What are you looking for?
-By-laws
+Terms and provisions that would be violated by the purchase.
 #### Why is this important to your client?
-....
+Those terms and provisions may prevent the purchase from happening.
+
 
 #  (5) There are no existing or threatened legal actions or claims against the Corporation.
 ## What public search(es) are required?
