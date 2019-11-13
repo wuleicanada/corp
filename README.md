@@ -84,9 +84,9 @@ Make sure the assets of Corporation are not encumbered due to security interests
 #### How/where do you do these required public search(es)?
 Sheriff’s office
 #### What are you looking for?
-...
+Notice of judgement registered against the Corporation.
 #### Why is this important to your client?
-...
+So that the client knows the Corporation's liabilities from the execution.
 
 # (7)  No bankruptcy, insolvency or receivership proceedings have been instituted or are pending against the Corporation or the Vendors.
 ## What public search(es) are required?
