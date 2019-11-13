@@ -40,7 +40,7 @@ Ensure the shares were issued properly to Vendors, Vendors truly owns the shares
 #### What name(s) do you search?
 “Target Beauty Supplies Inc.”
 #### How/where do you do these required public search(es)?
-In person at Service Ontario, or by mail/fax to Central Production and Verification Services Branch of Ministry of Government and Consumer Services, or through PSPs, or through third party businesses
+In person at Service Ontario, or by mail/fax to Central Production and Verification Services Branch of Ministry of Government and Consumer Services, or through primary services providers (PSPs), or through search houses and corporations that offer such services
 #### What are you looking for?
 Confirm Corporation currently exists. Also find all other names the corporation may have used in the past five years.*
 #### Why is this important to your client?
