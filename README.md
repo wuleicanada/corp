@@ -84,7 +84,7 @@ Sheriff’s office
 #### What name(s) do you search?
 “Target Beauty Supplies Inc.” and “Vivian Leigh” and “Vitality Spa Services Ltd.” and any other names discovered in Question 3.*
 #### How/where do you do these required public search(es)?
-“Insolvency name search” through the Office of the Superintendent of Bankruptcy.
+Contact the Office of the Superintendent of Bankruptcy in Ottawa to request an “insolvency name search”.
 
 Also request a search of court files in the jurisdiction for arrangement under _Companies’ Creditors Arrangement Act_
 
