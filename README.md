@@ -54,7 +54,7 @@ Contact courts in the jurisdiction and request a search of court records.
 #### What are you looking for?
 Litigation to which the Corporation is a plaintiff or defendant.
 #### Why is this important to your client?
-
+Litigation may be costly and have negative affects on the Corporation.
 
 # (6) There are no liens, charges or encumbrances of any kind whatsoever on the assets of the Corporation.
 ## What public search(es) are required?
