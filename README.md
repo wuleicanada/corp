@@ -52,13 +52,13 @@ The client wouldn't want to buy a company that never or no longer exists. The ot
 #### What name(s) do you search?
 “Target Beauty Supplies Inc.”
 #### What are you looking for?
-Look in the contracts for terms that would be violated by the purchase.
+Look in the contracts for terms that will be violated by the purchase.
 #### Why is this important to your client?
-Violating contracts would have bad consequences.
+Violating contracts can have bad consequences.
 ## What internal  reviews are required?
 ### 🔎 Minute book review
 #### What are you looking for?
-Terms and provisions that would be violated by the purchase.
+Terms and provisions that will be violated by the purchase.
 #### Why is this important to your client?
 Those terms and provisions may prevent the purchase from happening.
 
