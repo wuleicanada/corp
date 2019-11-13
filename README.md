@@ -72,11 +72,11 @@ The client probably wouldn't want to inherit law suits that may be costly and ha
 #### What name(s) do you search?
 “Target Beauty Supplies Inc.” and any other names discovered in Question 3.*
 #### How/where do you do these required public search(es)?
-In the Bank Act database
+Request a search from the Canadian Securities Registration System.
 #### What are you looking for?
-...
+Check if the Corporation's assets are registered.
 #### Why is this important to your client?
-Make sure the assets of Target Beauty Supplies Inc. are not encumbered due to security interests by chartered banks.
+Make sure the assets of Corporation are not encumbered due to security interests by chartered banks.
 
 ### 🔎 Execution
 #### What name(s) do you search?
