@@ -77,3 +77,26 @@ Sheriff’s office
 ...
 #### Why is this important to your client?
 ...
+
+# (7)  No bankruptcy, insolvency or receivership proceedings have been instituted or are pending against the Corporation or the Vendors.
+## What public search(es) are required?
+### Bankruptcy
+#### What name(s) do you search?
+“Target Beauty Supplies Inc.” and “Vivian Leigh” and “Vitality Spa Services Ltd.”
+#### How/where do you do these required public search(es)?
+“Insolvency name search” through the Office of the Superintendent of Bankruptcy.
+
+Also request a search of court files in the jurisdiction for arrangement under _Companies’ Creditors Arrangement Act_
+
+#### What are you looking for?
+...
+#### Why is this important to your client?
+...
+
+# (8)  The Corporation is not in default of any agreement or contract to which the Corporation is a party and that all such agreements and contracts are in good standing and the Corporation is entitled to all stated benefits in such agreements.
+## What internal  reviews are required?
+### Contracts review
+#### What are you looking for?
+.....  If there’s change of control provision in the contracts, consent is needed....
+#### Why is this important to your client?
+...
