@@ -12,7 +12,7 @@ It answers the questions: 1. How much is the corporation truly worth? 2. Can the
 #### What name(s) do you search?
 “Vivian Leigh” and “Vitality Spa Services Ltd.”
 #### How/where do you do these required public search(es)?
-Using “Access Now”
+Using “Access Now” on ServiceOntario web site.
 #### What are you looking for?
 Make sure the shares owned by Vendors were not registered as security for loans.
 #### Why is this important to your client?
