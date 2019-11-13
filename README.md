@@ -17,12 +17,22 @@ Using “Access Now” on ServiceOntario web site.
 Make sure the shares owned by Vendors were not registered as security for loans.
 #### Why is this important to your client?
 This makes sure Vendors can sell their shares to the client. They can't if the shares were used as collateral for loans.
+### 🔎 Execution
+#### What name(s) do you search?
+“Vivian Leigh” and “Vitality Spa Services Ltd.”
+#### How/where do you do these required public search(es)?
+Sheriff’s office
+#### What are you looking for?
+Claims against the Vendors' shares
+#### Why is this important to your client?
+This makes sure Vendors can sell the shares to the client.
 ## What internal  reviews are required?
 ### 🔎 Minute book review
 #### What are you looking for?
 Compile a list of current shareholders and the number/type of shares they hold, and check if there are restrictions preventing the shareholders from transferring the shares
 #### Why is this important to your client?
 Ensure the shares were issued properly to Vendors, Vendors truly owns the shares, and Vendors are allowed to sell the shares.
+
 
 # (3) The Corporation is duly incorporated, validly subsisting and in good standing under the laws of its jurisdiction of incorporation.
 ## What public search(es) are required?
