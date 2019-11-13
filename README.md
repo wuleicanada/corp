@@ -32,7 +32,7 @@ Ensure the shares were issued properly to Vendors, Vendors truly owns the shares
 #### How/where do you do these required public search(es)?
 In person at Service Ontario, or by mail/fax to Central Production and Verification Services Branch of Ministry of Government and Consumer Services, or through PSPs, or through third party businesses
 #### What are you looking for?
-Confirm Corporation still exists.
+Confirm Corporation still exists. Also find all other names the corporation used to run business.
 #### Why is this important to your client?
 Confirm Corporation still exists.
 
@@ -48,7 +48,7 @@ By-laws
 ## What public search(es) are required?
 ### 🔎 Litigation
 #### What name(s) do you search?
-“Target Beauty Supplies Inc.”
+“Target Beauty Supplies Inc.” and any other names discovered in Question 3.
 #### How/where do you do these required public search(es)?
 Request a search of court files in the jurisdiction
 #### What are you looking for?
@@ -60,7 +60,7 @@ Request a search of court files in the jurisdiction
 ## What public search(es) are required?
 ### 🔎 Bank Act
 #### What name(s) do you search?
-“Target Beauty Supplies Inc.”
+“Target Beauty Supplies Inc.” and any other names discovered in Question 3.
 #### How/where do you do these required public search(es)?
 In the Bank Act database
 #### What are you looking for?
@@ -70,7 +70,7 @@ Make sure the assets of Target Beauty Supplies Inc. are not encumbered due to se
 
 ### 🔎 Execution
 #### What name(s) do you search?
-“Target Beauty Supplies Inc.”
+“Target Beauty Supplies Inc.” and any other names discovered in Question 3.
 #### How/where do you do these required public search(es)?
 Sheriff’s office
 #### What are you looking for?
@@ -82,7 +82,7 @@ Sheriff’s office
 ## What public search(es) are required?
 ### 🔎 Bankruptcy
 #### What name(s) do you search?
-“Target Beauty Supplies Inc.” and “Vivian Leigh” and “Vitality Spa Services Ltd.”
+“Target Beauty Supplies Inc.” and “Vivian Leigh” and “Vitality Spa Services Ltd.” and any other names discovered in Question 3.
 #### How/where do you do these required public search(es)?
 “Insolvency name search” through the Office of the Superintendent of Bankruptcy.
 
