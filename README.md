@@ -56,3 +56,24 @@ Request a search of court files in the jurisdiction
 ### Why is this important to your client?
 ...
 
+# (6) There are no liens, charges or encumbrances of any kind whatsoever on the assets of the Corporation.
+## What public search(es) are required?
+### Bank Act
+### What name(s) do you search?
+“Target Beauty Supplies Inc.”
+### How/where do you do these required public search(es)?
+In the Bank Act database
+### What are you looking for?
+...
+### Why is this important to your client?
+Make sure the assets of Target Beauty Supplies Inc. are not encumbered due to security interests by chartered banks.
+
+### Execution
+### What name(s) do you search?
+“Target Beauty Supplies Inc.”
+### How/where do you do these required public search(es)?
+Sheriff’s office
+### What are you looking for?
+...
+### Why is this important to your client?
+...
