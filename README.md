@@ -2,9 +2,9 @@
 ## What internal  reviews are required?
 ### 🔎 Minute book review
 #### What are you looking for?
-Review the articles of the incorporation and any unanimous shareholder agreements to determine what types of shares were issued, how many shares were issued for this particular share type, whether the corporate is authorized to issue such shares, and whether there are restrictions on transfer of shares
+Review the articles of the incorporation and any unanimous shareholder agreements to determine authorized and issued share capital,  types and number of shares issued, whether the corporate is authorized to issue such shares, and whether there are restrictions on transfer of such shares
 #### Why is this important to your client?
-This answers the questions: 1. How much is the corporation truly worth? 2. Can the shares be purchased?
+It answers the questions: 1. How much is the corporation truly worth? 2. Can the shares be purchased?
 
 # (2) The shareholders of record are as follows: Vivian Leigh - 30,000 common shares    Vitality Spa Services Ltd. – 50,000 common shares
 ## What public search(es) are required?
@@ -16,7 +16,7 @@ Using “Access Now”
 #### What are you looking for?
 Confirm title of shares. Make sure the shares owned by Vendors were not registered as security for loans.
 #### Why is this important to your client?
-Otherwise, the shares are at risk of being claimed by other creditors.
+This makes sure Vendors can sell their shares to the client.
 ## What internal  reviews are required?
 ### 🔎 Minute book review
 #### What are you looking for?
