@@ -38,7 +38,7 @@ Confirm Corporation still exists.
 
 # (4) The entering into of this agreement and the transactions contemplated hereby will not result in the violation of any of the terms and provisions of the constating documents or by-laws of the Vendor or of any indenture or other agreement, written or oral, to which the Vendor may be a party.
 ## What internal  reviews are required?
-### Minute book review
+### 🔎 Minute book review
 #### What are you looking for?
 By-laws
 #### Why is this important to your client?
