@@ -44,7 +44,7 @@ In person at Service Ontario, or by mail/fax to Central Production and Verificat
 #### What are you looking for?
 Confirm Corporation still exists. Also find all other names the corporation may have used to do business.*
 #### Why is this important to your client?
-The client wouldn't want to buy a company that no longer exist. Other names will be used for public searches. Some litigation may also reveal problems with the Corporation.
+The client wouldn't want to buy a company that no longer exist. Other names will be used for public searches. 
 
 # (4) The entering into of this agreement and the transactions contemplated hereby will not result in the violation of any of the terms and provisions of the constating documents or by-laws of the Vendor or of any indenture or other agreement, written or oral, to which the Vendor may be a party.
 ## What internal  reviews are required?
@@ -64,7 +64,7 @@ Contact courts in the jurisdiction and request a search of court records.
 #### What are you looking for?
 Litigation to which the Corporation is a plaintiff or defendant.
 #### Why is this important to your client?
-The client probably wouldn't want to inherit law suits that may be costly and have negative affects on the Corporation.
+The client probably wouldn't want to inherit law suits that may be costly and have negative affects on the Corporation. Additionally, certain litigation may also reveal problems with the Corporation.
 
 # (6) There are no liens, charges or encumbrances of any kind whatsoever on the assets of the Corporation.
 ## What public search(es) are required?
