@@ -50,11 +50,11 @@ By-laws
 #### What name(s) do you search?
 “Target Beauty Supplies Inc.” and any other names discovered in Question 3.*
 #### How/where do you do these required public search(es)?
-Request a search of court files in the jurisdiction
+Contact courts in the jurisdiction and request a search of court records.
 #### What are you looking for?
-...
+Litigation to which the Corporation is a plaintiff or defendant.
 #### Why is this important to your client?
-...
+
 
 # (6) There are no liens, charges or encumbrances of any kind whatsoever on the assets of the Corporation.
 ## What public search(es) are required?
@@ -84,7 +84,7 @@ Sheriff’s office
 #### What name(s) do you search?
 “Target Beauty Supplies Inc.” and “Vivian Leigh” and “Vitality Spa Services Ltd.” and any other names discovered in Question 3.*
 #### How/where do you do these required public search(es)?
-Contact the Office of the Superintendent of Bankruptcy in Ottawa to request an “insolvency name search”.
+Contact the Office of the Superintendent of Bankruptcy to request an “insolvency name search”.
 
 Also request a search of court files in the jurisdiction for arrangement under _Companies’ Creditors Arrangement Act_
 
