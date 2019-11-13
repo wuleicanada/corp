@@ -14,9 +14,9 @@ It answers the questions: 1. How much is the corporation truly worth? 2. Can the
 #### How/where do you do these required public search(es)?
 Using “Access Now”
 #### What are you looking for?
-Confirm title of shares. Make sure the shares owned by Vendors were not registered as security for loans.
+Make sure the shares owned by Vendors were not registered as security for loans.
 #### Why is this important to your client?
-This makes sure Vendors can sell their shares to the client.
+This makes sure Vendors can sell their shares to the client. They can't if the shares were used as collateral for loans.
 ## What internal  reviews are required?
 ### 🔎 Minute book review
 #### What are you looking for?
