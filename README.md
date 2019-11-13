@@ -44,3 +44,15 @@ By-laws
 ### Why is this important to your client?
 ....
 
+#  (5) There are no existing or threatened legal actions or claims against the Corporation.
+## What public search(es) are required?
+### Litigation
+### What name(s) do you search?
+“Target Beauty Supplies Inc.”
+### How/where do you do these required public search(es)?
+Request a search of court files in the jurisdiction
+### What are you looking for?
+...
+### Why is this important to your client?
+...
+
