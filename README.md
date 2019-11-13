@@ -32,9 +32,9 @@ Ensure the shares were issued properly to Vendors, Vendors truly owns the shares
 #### How/where do you do these required public search(es)?
 In person at Service Ontario, or by mail/fax to Central Production and Verification Services Branch of Ministry of Government and Consumer Services, or through PSPs, or through third party businesses
 #### What are you looking for?
-Confirm Corporation still exists. Also find all other names the corporation used to run business.
+Confirm Corporation still exists. Also find all other names the corporation may have used to do business.
 #### Why is this important to your client?
-Confirm Corporation still exists.
+The client wouldn't want to buy a company that no longer exist. Other names will be used for public searches.
 
 # (4) The entering into of this agreement and the transactions contemplated hereby will not result in the violation of any of the terms and provisions of the constating documents or by-laws of the Vendor or of any indenture or other agreement, written or oral, to which the Vendor may be a party.
 ## What internal  reviews are required?
