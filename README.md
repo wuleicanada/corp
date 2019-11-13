@@ -113,9 +113,11 @@ Record of insolvency or creditors arrangement.
 If Vendors are bankrupt and undischarged, they can't sell the shares. In case Corporation is bankrupt, the client wouldn't want to proceed with the purchase.
 
 # (8)  The Corporation is not in default of any agreement or contract to which the Corporation is a party and that all such agreements and contracts are in good standing and the Corporation is entitled to all stated benefits in such agreements.
-## What internal  reviews are required?
-### 🔎 Contracts review
+## What public search(es) are required?
+### 🔎 Contracts
+#### What name(s) do you search?
+“Target Beauty Supplies Inc.”
 #### What are you looking for?
-.....  If there’s change of control provision in the contracts, consent is needed....
+Check if all parties are in full compliance of the contracts.
 #### Why is this important to your client?
-...
+Corporation's compliance can avoid litigation. Contracts are in good standing ensures business can carry on with disruption. Other parties' compliance will ensure Corporation's entitled benefits.
