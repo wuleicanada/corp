@@ -44,7 +44,7 @@ In person at Service Ontario, or by mail/fax to Central Production and Verificat
 #### What are you looking for?
 Confirm Corporation still exists. Also find all other names the corporation may have used to do business.*
 #### Why is this important to your client?
-The client wouldn't want to buy a company that never or no longer exists. Other names will be used for public searches. 
+The client wouldn't want to buy a company that never or no longer exists. The other names found will be used for public searches. 
 
 # (4) The entering into of this agreement and the transactions contemplated hereby will not result in the violation of any of the terms and provisions of the constating documents or by-laws of the Vendor or of any indenture or other agreement, written or oral, to which the Vendor may be a party.
 ## What internal  reviews are required?
