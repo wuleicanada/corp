@@ -14,7 +14,7 @@ It answers the questions: 1. How much is the corporation truly worth? 2. Can the
 #### How/where do you do these required public search(es)?
 Using “Access Now” on ServiceOntario web site.
 #### What are you looking for?
-Make sure the shares owned by Vendors were not registered as security for loans.
+Check if Vendors' shares were registered as security for loans.
 #### Why is this important to your client?
 This makes sure Vendors can sell their shares to the client. They can't if the shares were used as collateral for loans.
 ### 🔎 Execution
