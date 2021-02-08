@@ -12,5 +12,9 @@ Spawn, -205, 266, ""
 Spawn, -189, 296, ""
 Spawn, -161, 306, ""
 Spawn, -161, 344, ""
-Spawn, -133, 371, ""
-Spawn, -136, 416, "Gate to Village #1"
+Spawn, -155, 358, "To lava"
+Spawn, -136, 416, "To Village #1"
+Spawn, -196, 418, "Wide"
+Spawn, -237, 448, ""
+
+
