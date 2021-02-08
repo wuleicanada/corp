@@ -16,6 +16,8 @@ Spawn, -155, 358, "To lava"
 Spawn, -136, 416, "To Village #1"
 Spawn, -196, 418, "Wide"
 Spawn, -237, 448, ""
-Spawn, -288, 496, "Narrow & End"
+Spawn, -288, 496, "Narrow"
+Spawn, -316, 448, ""
+Spawn, -362, 469, "End"
 
 
