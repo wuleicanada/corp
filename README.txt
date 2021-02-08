@@ -19,5 +19,3 @@ Spawn, -237, 448, ""
 Spawn, -288, 496, "Narrow"
 Spawn, -316, 448, ""
 Spawn, -362, 469, "End"
-
-
