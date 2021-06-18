@@ -1,21 +1,12 @@
 type, x, z, description
-PlayerHouse, -221, 206, "House #1"
-Village, -99, 708, "House #2 on island"
-FlowerForest, -615, 4, Gardens
-Forest, -26, 73, Bed
-Forest, -360, 498, "Bed on mountain"
-Forest, -208, -31, "Bed on hill"
-Village, -381, 224, "Village #2"
-Village, 65, 534, "Village #1"
-Spawn, -238, 259, ""
-Spawn, -205, 266, ""
-Spawn, -189, 296, ""
-Spawn, -161, 306, ""
-Spawn, -161, 344, ""
-Spawn, -155, 358, "To lava"
-Spawn, -136, 416, "To Village #1"
-Spawn, -196, 418, "Wide"
-Spawn, -237, 448, ""
-Spawn, -288, 496, "Narrow"
-Spawn, -316, 448, ""
-Spawn, -362, 469, "End"
+Spawn,-1540,-968,"Zombie Farm"
+Spawn,-1727,-514,"Abandoned Portal"
+Village,-1809,-792,"Red Roof"
+DesertVillage,-1545,-840,"Camel Town"
+Village,-1345,-375,Newfoundland
+Spawn,-990,-385,"Abandoned Portal"
+Village,-742,-198,England
+Spawn,-903,265,Sunflowers
+Spawn,-269,279,"Red Mushrooms"
+Spawn,-437,407,"Gravel Mt"
+WitchHut,-396,534,""
