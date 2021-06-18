@@ -3,7 +3,7 @@ Spawn,-1540,-968,"Zombie Farm"
 Spawn,-1727,-514,"Abandoned Portal"
 Village,-1809,-792,"Red Roof"
 DesertVillage,-1545,-840,"Camel Town"
-Village,-1345,-375,Newfoundland
+Village,-1404,-517,Newfoundland
 Spawn,-990,-385,"Abandoned Portal"
 Village,-742,-198,England
 Spawn,-903,265,Sunflowers
