@@ -10,3 +10,4 @@ Spawn,-903,265,Sunflowers
 Spawn,-269,279,"Red Mushrooms"
 Spawn,-437,407,"Gravel Mt"
 WitchHut,-396,534,""
+Spawn,-1272,-161,"Spaceship Msm"
