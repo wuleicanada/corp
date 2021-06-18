@@ -5,7 +5,7 @@ Village,-1809,-792,"Red Roof"
 DesertVillage,-1545,-840,"Camel Town"
 Village,-1404,-517,Newfoundland
 Spawn,-990,-385,"Abandoned Portal"
-Village,-742,-198,England
+Village,-891,-233,England
 Spawn,-903,265,Sunflowers
 Spawn,-269,279,"Red Mushrooms"
 Spawn,-437,407,"Gravel Mt"
